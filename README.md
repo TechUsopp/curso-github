@@ -1,6 +1,6 @@
 # Titulo Do README
 
-Aqui vai estar as informações do projeto feito em aula.
+É so um projeto criado para usar na aula de git e github 
 
 # Subtítulo DO README
 
